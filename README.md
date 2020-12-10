@@ -7,6 +7,8 @@
 - The data on numbers retiring will help the company to plan on smooth exit and at the same time smooth onboarding of new employees so that the operations of the company goes on without any disturbance throughout the transition and further.
 - The analysis should point out the projected numbers and the numbers impacting various departments and titles so that a strategy can be developed to handle the situation.
 - The analysis should also give inputs on next set of senior employees who can participate in mentorship program mentoring new employees before they reach the retirement age.
+- The queries written for the analysis can be found in .sql script file here : <a href="https://github.com/VinuthaBS/Pewlett-Hackard-Analysis/tree/main/Queries">------> SQL Script file</a>
+- The exported data files are kept as .csv files here : <a href="https://github.com/VinuthaBS/Pewlett-Hackard-Analysis/tree/main/Data">------> .csv files</a>
 ## **Results :** 
 - The analysis of employee data gave a clear understanding of the number of employees retiring shortly. Summary table of retirees v/s titles is as below :
 - <img src = "Resources/RetireesVSTitles.png"></img>
