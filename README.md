@@ -1,5 +1,5 @@
 # **Pewlett-Hackard-Analysis**
-- Employee data analysis of Pewlett Hackard comapny storing the data Postgres DB and querying using SQL through pgAdmin.
+- Employee data analysis of Pewlett Hackard company; storing the data in Postgres DB and querying using SQL through pgAdmin.
 ---
 ## Overview of the Project :
 - Pewlett Hackard has large employee base with equally large number of senior employees who will be retiring soon. 
@@ -12,7 +12,7 @@
 ## **Results :** 
 - The analysis of employee data gave a clear understanding of the number of employees retiring shortly. Summary table of retirees v/s titles is as below :
 - <img src = "Resources/RetireesVSTitles.png"></img>
-- The summary of the retiring employees based on the titles held discloses information on the fact that the around 65% of the total number of retirees are senior staff (holding titles Senior Engineer and Senior Staff). This is a very big number of senior experienced positions who will have to be replaced. 
+- The summary of the retiring employees based on the titles held discloses information on the fact that around 65% of the total number of retirees are senior staff (holding titles Senior Engineer and Senior Staff). This is a very big number of senior experienced positions who will have to be replaced. 
 - Among the 9 active Managers (heading a department), 2 are set to retire. On further querying we can know that these 2 managers are from Sales and Research team. Summary table indicating the numbers v/s titles corresponding to departments reveals this information clearly as below :
 - <img src = "Resources/RetireesVSTitlesVSDepts.png"></img>
 - Around 25% of the retirees are holding the titles "Engineer" or "Staff". This can be tackled by mentoring the junior employees.
